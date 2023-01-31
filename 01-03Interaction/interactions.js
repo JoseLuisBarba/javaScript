@@ -26,4 +26,4 @@ let isProffessional = confirm('Are you proffessional?')
 if (isProffessional === true)
     alert('You\'re a proffesional');
 else
-alert('You aren\'t a proffesional');
+    alert('You aren\'t a proffesional');
