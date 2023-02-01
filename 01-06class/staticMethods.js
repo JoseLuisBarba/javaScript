@@ -23,5 +23,8 @@ articles.sort(Article.compare);
 for(let article of Object.values(articles))
     console.log(article)
 
+let otherArticle = Article.createTodays();
+console.log(otherArticle);
+
 
 
